@@ -1,0 +1,48 @@
+0  usexdrvrs
+1  sublimscale
+0.18  reflec
+0.20  albedo
+0.6  fswcinit
+0.000008  dmpflux
+10  hours_rain
+1  drainlag
+1 0 watertable[1]
+2 0 watertable[2]
+3 0 watertable[3]
+4 0 watertable[4]
+5 0 watertable[5]
+6 0 watertable[6]
+7 0 watertable[7]
+8 0 watertable[8]
+9 0 watertable[9]
+10 0 watertable[10]
+11 0 watertable[11]
+12 0 watertable[12]
+-200  hpotdeep
+0.0003  ksatdeep
+1 71 cldcov[1]
+2 66 cldcov[2]
+3 58 cldcov[3]
+4 52 cldcov[4]
+5 46 cldcov[5]
+6 45 cldcov[6]
+7 42 cldcov[7]
+8 50 cldcov[8]
+9 53 cldcov[9]
+10 57 cldcov[10]
+11 62 cldcov[11]
+12 69 cldcov[12]
+0.0 12.4 tbotmn/tbotmx
+0.003  dmp
+30.0  timlag
+0.03  Ncoeff
+0 0 jdayStart/jdayEnd
+0.89990138658942  NO3_N2O_x
+1.50142232757258  NO3_N2O_y
+2.92686706468367  NO3_N2O_step
+5.99215749932471  NO3_N2O_slope
+0.391164609058442  MaxNitAmt
+1  SnowFlag
+0.306123381059092  netmn_to_no3
+1.45                wfpsdnitadj
+0.617282521485819  n2n2oadj
