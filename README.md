@@ -1,2 +1,3 @@
 # Daycent-validation
-Biogeochemical model (Daycent) savanna model
+Biogeochemical model (Daycent) savanna simulation model
+Adjusted code to run_DDcent_savanna_advanced.R which fetches site-specific weather, soil and schedule files, and runs embedded .exe files for Daycent savanna module, modified from run_DDcent_wooster_advanced.R (author Melannie Hartman). It is set up to run an equilibrium followed by a base run and subsequent experimental runs. This example is from the grassland long term research site, Brotherton, with treatments of HAF (herbivory annual fire), HBAF (herbivory biennial fire), NHAF (no herbivory annual fire), NHNF (no herbivory no fire), NHAF (no herbivory annual fire), NHBF (no herbivory biennial fire). 
